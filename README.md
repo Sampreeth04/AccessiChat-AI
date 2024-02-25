@@ -1,6 +1,4 @@
-# AccessiChat-AI
-
-# AccessiChat AI Project Journey
+# AccessiChat AI
 
 ## Inspiration
 
